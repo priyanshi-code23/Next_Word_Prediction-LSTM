@@ -1,2 +1,1 @@
-# Next_Word_Prediction-LSTM
-Next Word Predicton using LSTM and NLP with TensorFlow, Keras and Streamlit.
+The model is successfully predicts the next word based on user input.Prediction quality can be further improved with larger dataset and hyperparameter tuning
